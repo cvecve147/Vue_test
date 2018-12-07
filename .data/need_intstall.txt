@@ -1,0 +1,7 @@
+cdnjs
+live server
+prettier
+vetur
+html snippets
+one dark pro
+path lntellisense
